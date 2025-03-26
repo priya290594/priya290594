@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left">My name is Priya Rathore, and I'm a data analyst enthusiast from Greater Noida.</p>
+<h1 align="left">My name is Priya Rathore, and I'm a data analyst enthusiast from Greater Noida.</p>
 
 ###
 
